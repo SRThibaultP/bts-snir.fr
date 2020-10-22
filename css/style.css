@@ -317,17 +317,17 @@ vertical-align: middle;
 .class.b45 { margin-top: 10%; } /* after 45 min break */
 .class.b90 { margin-top: 15vh; } /* after 2x45 min break */
 .class.b135 { margin-top: 22.5vh; } /* after 3x45 min break */
-.green { background-color: #caffbf; }
-.turquoise { background-color: #9bf6ff; }
+.green { background-color: #2ecc71; }
+.turquoise { background-color: #1abc9c; }
 .navy { background-color: #34495e; }
-.blue { background-color: #a0c4ff; }
-.purple { background-color: #bdb2ff; }
+.blue { background-color: #3498db; }
+.purple { background-color: #9b59b6; }
 .grey { background-color: #bdc3c7; }
 .gray { background-color: #7f8c8d; }
-.red { background-color: #ffadad; }
-.orange { background-color: #ffd6a5; }
-.yellow { background-color: #fdffb6 }
-.white { background-color: #fffffc; }
+.red { background-color: #e74c3c; }
+.orange { background-color: #f39c12; }
+.yellow { background-color: #f1c40f; color: #303030; }
+.white { background-color: white; color: black; }
 .spacing { background-color: transparent; }
 .brown { background-color: #452103}
 /* Add this attribute to the element that needs a tooltip */
